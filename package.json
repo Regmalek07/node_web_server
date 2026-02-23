@@ -4,7 +4,7 @@
   "description": "Proyecto de Web server para curso de NodeJs",
   "license": "ISC",
   "author": "Malek",
-  "type": "commonjs",
+  "type": "module",
   "main": "src/app.js",
   "scripts": {
     "dev": "nodemon src/app.js"
